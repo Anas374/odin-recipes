@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to right, #4f81c7, #4cafec);
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.content {
+    background-color: #e1f5fe;
+    border: none;
+    border-radius: 20px;
+    margin: 5%;
+    padding: 25px;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    color: #333333;;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+img {
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+}
+h1 {
+    text-align: center;
+}
